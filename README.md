@@ -6,7 +6,7 @@ Je créer des projets uniquement quand j'en ai besoin ou juste pour le fun / pou
 
 Skills: HTML/CSS/JS/PHP/NODEJS
 
-- 🔭 Je travaille actuellement sur :  ([Enderbot Selfbot](https://github.com/Regis1488/enderbot_explo_selfbot)
+- 🔭 Je travaille actuellement sur :  [Enderbot Selfbot](https://github.com/Regis1488/enderbot_explo_selfbot)
 - 🌱 J'apprend actuellement le : **Le php** 
 
 
