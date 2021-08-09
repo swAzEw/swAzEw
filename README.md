@@ -1,6 +1,6 @@
 ### Salut 👋, Mon nom est Regis
 #### Je suis un utilisateur normal de github.
-![Je suis un utilisateur normal de github.](https://cdn.discordapp.com/attachments/817109167046524990/874306679032905819/tenor.png)
+![Je suis un utilisateur normal de github.]
 
 Je créer des projets uniquement quand j'en ai besoin ou juste pour le fun / pour m'entrainer sur du javascript.
 
