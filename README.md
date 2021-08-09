@@ -7,9 +7,8 @@ Compétences : HTML/CSS/JS/PHP/NODEJS
 - 🔭 Je travaille actuellement sur :  [Enderbot Selfbot](https://github.com/Regis1488/enderbot_explo_selfbot)
 - 🌱 J'apprend actuellement le : **Le php** 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Regis1488)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/s5R2fqBk)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Regis1488&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Regis1488)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Regis1488)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/s5R2fqBk)  
