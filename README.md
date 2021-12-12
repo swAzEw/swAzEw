@@ -5,7 +5,7 @@ Je créer des projets uniquement quand j'en ai besoin ou juste pour le fun / pou
 Compétences : HTML/CSS/JS/PHP/NODEJS
 
 - 🔭 Je travaille actuellement sur :  [Enderbot Selfbot](https://github.com/Regis1488/enderbot_explo_selfbot)
-- 🌱 J'apprend actuellement le : **Le php** 
+- 🌱 J'apprend actuellement le : **Le c++** 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Regis1488&show_icons=true)  
 
